@@ -1,3 +1,3 @@
-group B : https://grok.com/share/bGVnYWN5_866e2944-29a7-4078-a820-6fffd4b0fe71
+group B : https://grok.com/share/bGVnYWN5_db13c409-1aff-42b4-9a09-3b100f97a3a8
 -
-group A : https://grok.com/share/bGVnYWN5_18a2ba36-81bb-4275-bfff-f59a79f08126
+group A : https://grok.com/share/bGVnYWN5_455ec775-19da-462e-b2b3-a0fe69502bbc
